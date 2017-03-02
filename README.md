@@ -5,12 +5,12 @@
 
 ### Hipster one-liner:
 ```
-curl -0 https://raw.githubusercontent.com/joshmccall221/todo-react-redux/master/goScript | bash
+curl -0 https://raw.githubusercontent.com/McCallTech/prospectsource/master/goScript | bash
 ```
 
 ### Copy Pasta:
 ```
-git clone https://github.com/joshmccall221/todo-react-redux.git && \
+git clone https://github.com/McCallTech/prospectsource.git && \
 cd todo-react-redux && \
 nvm i 6 && \
 nvm use 6 && \
@@ -28,10 +28,11 @@ For more infor on Codenvy, check this out:
 
 ## Deploy to gh-pages: 
 
-[ http://joshmccall221.github.io/prospect-source/](http://joshmccall221.github.io/prospect-source/)
+
+[http://mccalltech.github.io/prospectsource/](http://mccalltech.github.io/prospectsource/)
 
 ```
 npm run gh-pages
 ```
-# prospectsource [![huboard](https://img.shields.io/badge/huboard-Prospect%20Source-green.svg)]( https://huboard.com/McCallTech/prospectsource/)
+[![huboard](https://img.shields.io/badge/huboard-Prospect%20Source-green.svg)]( https://huboard.com/McCallTech/prospectsource/)
 
